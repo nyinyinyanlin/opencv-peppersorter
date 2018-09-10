@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="408.0mm" height="203.0mm" viewBox="0 0 408.0 203.0" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<g id="Sketch" transform="translate(32.750000,82.000000) scale(1,-1)">
+<circle cx="0.0" cy="0.0" r="4.0" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="18.25" cy="0.0" r="2.75" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="-18.25" cy="0.0" r="2.75" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>Sketch</title>
+</g>
+<g id="Sketch002" transform="translate(32.750000,82.000000) scale(1,-1)">
+<path id="Sketch002_w0000"  d="M 44.5 -3.99999953245 A 2.75 2.75 0 0 1 39.0 -3.99999951523 L 39.0 -24.0 A 2.75 2.75 0 0 1 44.5 -23.9999997646 L 44.5 -3.99999953245 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<path id="Sketch002_w0001"  d="M 56.0 -24.0 A 4.0 4.0 0 1 1 64.0 -24.0 L 64.0 -4.0 A 4.0 4.0 0 0 1 56.0 -4.0 L 56.0 -24.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<path id="Sketch002_w0002"  d="M 75.5 -24.0 A 2.75 2.75 0 1 1 81.0 -24.0 L 81.0 -4.0 A 2.75 2.75 0 0 1 75.5 -4.0 L 75.5 -24.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Sketch002</title>
+</g>
+<g id="Sketch004" transform="translate(32.750000,82.000000) scale(1,-1)">
+<circle cx="107.5" cy="-72.0" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="165.5" cy="-72.0" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="107.5" cy="-24.0" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="165.5" cy="-24.0" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>RPI2</title>
+</g>
+<g id="Group" transform="translate(32.750000,82.000000) scale(1,-1)">
+<title>Bearings</title>
+</g>
+<g id="Sketch005" transform="translate(32.750000,82.000000) scale(1,-1)">
+<path id="Sketch005_w0000"  d="M 190.75 10.0 L 230.75 10.0 L 230.75 -10.0 L 190.75 -10.0 L 190.75 10.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<circle cx="186.25" cy="5.0" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="186.25" cy="-5.0" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="235.25" cy="5.0" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="235.25" cy="-5.0" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>Servo</title>
+</g>
+<g id="Sketch006" transform="translate(32.750000,82.000000) scale(1,-1)">
+<path id="Sketch006_w0000"  d="M 233.75 -14.0 L 236.75 -14.0 L 236.75 -104.0 L 233.75 -104.0 L 233.75 -14.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>crosssection1</title>
+</g>
+<g id="Sketch007" transform="translate(32.750000,82.000000) scale(1,-1)">
+<path id="Sketch007_w0000"  d="M 311.75 -14.0 L 314.75 -14.0 L 314.75 -104.0 L 311.75 -104.0 L 311.75 -14.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>crosssection002</title>
+</g>
+<g id="Sketch010" transform="translate(32.750000,82.000000) scale(1,-1)">
+<path id="Sketch010_w0000"  d="M 151.25 18.0 L 151.25 78.0 L 221.25 78.0 L 221.25 18.0 L 371.25 18.0 L 371.25 -117.0 L -28.75 -117.0 L -28.75 18.0 L 151.25 18.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Outer</title>
+</g>
+<g id="Sketch011" transform="translate(32.750000,82.000000) scale(1,-1)">
+<path id="Sketch011_w0000"  d="M -20.25 -14.0 L -17.25 -14.0 L -17.25 -104.0 L -20.25 -104.0 L -20.25 -14.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>crosssection003</title>
+</g>
+<g id="Sketch012" transform="translate(32.750000,82.000000) scale(1,-1)">
+<path id="Sketch012_w0000"  d="M 108.5 -80.0 L 163.5 -80.0 L 163.5 -90.0 L 108.5 -90.0 L 108.5 -80.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>WirePort</title>
+</g>
+<g id="Group001" transform="translate(32.750000,82.000000) scale(1,-1)">
+<title>Cross Section</title>
+</g>
+<g id="Sketch013" transform="translate(32.750000,82.000000) scale(1,-1)">
+<path id="Sketch013_w0000"  d="M 244.25 -41.195624628 L 304.25 -41.195624628 L 304.25 -111.195624628 L 244.25 -111.195624628 L 244.25 -41.195624628 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Pepper Port</title>
+</g>
+<g id="Sketch014" transform="translate(32.750000,82.000000) scale(1,-1)">
+<path id="Sketch014_w0000"  d="M 156.25 75.0 L 216.25 75.0 L 216.25 72.0 L 156.25 72.0 L 156.25 75.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Top Plate</title>
+</g>
+</svg>
